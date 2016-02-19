@@ -1,0 +1,15 @@
+E:\XBOX BACKUP\F\Backup\My Projects\lynx\Lynx Project\Briefcase\obj\Release\Lynx.exe
+E:\XBOX BACKUP\F\Backup\My Projects\lynx\Lynx Project\Briefcase\obj\Release\Lynx.pdb
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.exe
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.pdb
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\bin\Release\Lynx.exe
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\bin\Release\Lynx.pdb
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.Form1.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.LevelInfo.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.Help.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.Mapform.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.Settings.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.xzpform.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.Properties.Resources.resources
+C:\Users\Big Boss\Desktop\lynx\Lynx Project\Briefcase\obj\Release\Lynx.csproj.GenerateResource.Cache
